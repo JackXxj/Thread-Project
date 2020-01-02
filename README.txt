@@ -1,4 +1,4 @@
-xxj_retry_demo.py    # 自定义重试模块
+xxj_retry_demo.py    # 自定义重试模块1
 
 thread_retry(xxj_retry_demo).py    # 单线程重试（无ip限制）    使用xxj自定义重试模块实现重试机制
 
